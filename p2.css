@@ -1,5 +1,16 @@
+.img1 {
+    position: center;
+    width: 1200px;
+    border: grey;
+}
+
 .headline {
     color: orange;
+    text-align: center;
+}
+
+.headline1 {
+    color: orangered;
 }
 
 .a1 {
@@ -37,4 +48,14 @@ img {
     width: 250px;
     border: 2px solid rgb(48, 42, 42);
     align-items: center;
+}
+
+.style3 {
+    align-content: left;
+    border: 2px solid grey;
+    background-color: red;
+    color: white;
+    padding: 10 px;
+    margin: 5px;
+    text-align: center;
 }
