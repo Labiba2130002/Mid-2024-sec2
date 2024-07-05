@@ -21,12 +21,20 @@ img {
     box-shadow: grey;
 }
 
-.a1:hover {
-    text-align: center;
-    border: 2px solid rgb(0, 0, 0);
-    background-color:rgb(241, 241, 241);
+.a1 {
+    text-align: right;
+}
+
+a {
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 20 px;
+}
+
+a:hover {
+    border: 2px solid rgb(49, 7, 7);
+    background-color:rgb(223, 75, 75);
     color: rgb(0, 0, 0);
     padding: 10px;
     margin: 25px;
 }
-
