@@ -24,3 +24,17 @@ a:hover {
     display: grid;
     justify-content: space-around;
 }
+
+.style1 {
+    align-content: center;
+    border: 2px solid rgb(70, 63, 63);
+    padding: 10px;
+    margin: 2px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+img {
+    width: 250px;
+    border: 2px solid rgb(48, 42, 42);
+    align-items: center;
+}
