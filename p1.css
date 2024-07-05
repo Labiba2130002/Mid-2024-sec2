@@ -1,0 +1,11 @@
+.headline {
+    color: orangered;
+    text-align: center;
+}
+
+.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
