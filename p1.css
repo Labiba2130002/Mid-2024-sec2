@@ -38,3 +38,31 @@ a:hover {
     padding: 10px;
     margin: 25px;
 }
+
+.style{
+ text-align: center;
+}
+
+.display1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+    
+
+.style2 {
+    align-content: center;
+    border: 2px solid rgb(70, 63, 63);
+    padding: 10px;
+    margin: 2px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.style3 {
+    align-content: left;
+    border: 2px solid grey;
+    background-color: red;
+    color: white;
+    padding: 10 px;
+    margin: 5px;
+    text-align: center;
+}
